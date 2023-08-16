@@ -2,6 +2,12 @@
 
 **Title: Approval Status of an H1-B visa application in the USA**
 
+"The H1-B visa is the most demanded worldwide, and its applications vary heavily across many fields. It is the most sought-after non-immigrant visa. The process based on which an application is considered and the factors that might affect an approval or rejection of the visa are highly confidential. However, with the data-sets being made available by the US government maintaining the anonymity of the applicants, it gives us a great opportunity to analyze it and understand what key features are and what their policies revolve around.
+
+Our main agenda of this project is to inspect which features play a major role, and how they individually or as a combination lead to approval or rejection of an application. We also want to learn how well amongst the many machine learning models can a model predict the approval of an application. Overall, our learning from this project would be how to select the data, clean it, analyze it, and understand which features could help in the prediction of the target and application of various machine learning algorithms for their comparisons, which in return would help the purpose of this project that is to estimate the likelihood of visa approval/rejection in the USA.
+
+By using this process, one can reduce a lot of the risk associated with visa applications, for both independent applicants and employers who are funding the application."
+
 **Code Structure**
 
 **1. Data Merging**
